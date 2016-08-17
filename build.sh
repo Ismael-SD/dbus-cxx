@@ -16,3 +16,5 @@ fi
 ./configure
 make
 make install
+# Update libraries
+ldconfig
